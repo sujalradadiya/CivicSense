@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CivicSense – Smart City Complaint Portal
 
 ## About the Project
@@ -41,3 +42,7 @@ CivicSense is an AI-powered Smart City Complaint Portal that allows citizens to 
 
 ## Team
 Developed as a college project.
+=======
+# CivicSense
+CivicSense is an AI-powered Smart City Complaint Management Portal that enables citizens to report civic issues like road damage, garbage, water leakage, and electricity problems. It offers AI-based complaint classification, role-based dashboards, automated routing, and complaint tracking for smarter urban management.
+>>>>>>> c6965897fb4dab36fd9a9c8114abf86cdd4cb7f8
